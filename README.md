@@ -1,1 +1,3 @@
-# softcomshop-challenge
+Fábio Felipe Santos Viana
+Estou no 8º período de Ciência da Computação, estou na Softcom a 7 meses até o momento na linha do n1, participei 1 mes e alguns dias do blip.
+Como desenvolvedor tenho feito mais projetos e estudos em Java com Springboot, o ano de 2024 inteiro fiz parte de um projeto de extensão da faculdade onde fui alocado em um grupo de desenvolvedores para trabalhar num sistema web em Spring Boot com MongoDB para o setor de farmácia administrar o estoque de itens do laboratório e controle de aulas nos laboratórios. Tenho como atividade prática mais recente é um todo List, que planejo deixá-lo mais e mais robusto conforme vou estudando novos assuntos, como dockerização, testes, integração com aws, etc. 
